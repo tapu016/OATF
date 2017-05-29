@@ -1,0 +1,7 @@
+com\cpg\pojo\ProjectDetails.class
+com\cpg\pojo\ProjectInfo.class
+com\cpg\dao\SearchDAOImpl.class
+com\cpg\controller\BaseController.class
+com\cpg\dao\SearchDAO.class
+com\cpg\pojo\LoginBean.class
+com\cpg\service\SearchDetails.class
